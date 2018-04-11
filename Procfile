@@ -1,1 +1,1 @@
-worker: node SGerO.js
+worker: node !Zards.js
