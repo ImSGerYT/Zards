@@ -100,4 +100,4 @@ message.guild.createChannel('AFK', 'voice')
 message.guild.createChannel('-----------', 'voice')
     }
 });
-client.login('NDMzMjg5MTEyOTk3NTkzMDg4.Da5rgg.04ncjKmntXkEGlcUwbz_sM5w_4k');
+client.login(process.env.BOT_TOKEN);
