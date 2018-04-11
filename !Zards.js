@@ -12550,8 +12550,9 @@ message.member.addRole(message.guild.roles.find("name", "100"));
 	
 });
 
+//NDMzMjg5MTEyOTk3NTkzMDg4.Da5rgg.04ncjKmntXkEGlcUwbz_sM5w_4k
 
 
 
 
-client.login('NDMzMjg5MTEyOTk3NTkzMDg4.Da5rgg.04ncjKmntXkEGlcUwbz_sM5w_4k');
+client.login(process.env.BOT_TOKEN);
